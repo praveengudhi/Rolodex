@@ -1,15 +1,9 @@
-
-#----------Coding Challenge
-#--------- This command executes Personal Indentifier Class
-#----------As per your instructions rename the file from txt to .py file
+Coding 
+This command executes Personal Indentifier Class
  $ python PersonalIdentifiers.py
-
-#----------As per your instructions rename the file from txt to .py file
-#----------This command to run Unit tests
+This command to run Unit tests
  $ python -m unittest PersonalInfoTest.py
-
-#----------Input File
+#Input File
  Data.txt
-
-#----------Output File
+#Output File
  Output.json
